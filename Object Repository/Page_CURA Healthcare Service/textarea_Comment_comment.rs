@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username_username</name>
+   <name>textarea_Comment_comment</name>
    <tag></tag>
-   <elementGuidId>3fd12e0d-3517-4235-81d7-e4f08d692bd6</elementGuidId>
+   <elementGuidId>e62fe1df-f795-4e2f-bb70-6bcd2ded5c33</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#txt-username</value>
+         <value>#txt_comment</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='txt-username']</value>
+         <value>//textarea[@id='txt_comment']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Username&quot;i</value>
+         <value>internal:attr=[placeholder=&quot;Comment&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,16 +28,8 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>b7b1117a-33f6-4c43-9422-cbba06a5ef31</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>5a8946e9-732b-4b10-bca2-2d6978f967e6</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>bf9b1f12-f14f-44d9-82e1-5fcdd50a5566</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,78 +37,78 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>763fb6ba-ade7-48e0-b38c-060f11eb9271</webElementGuid>
+      <webElementGuid>66d964b4-39df-4e18-b6f5-ba7f588a743e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>txt-username</value>
-      <webElementGuid>19366b41-44b9-4335-8aad-0b5814b01246</webElementGuid>
+      <value>txt_comment</value>
+      <webElementGuid>b2aa40c7-83ce-4c1a-a709-19a6e765bf9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>0d2fcf7b-7642-4d87-81a3-c5d165870aa0</webElementGuid>
+      <value>comment</value>
+      <webElementGuid>8b2fdcd0-0911-47ca-ac82-ce85c212d523</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>2d442a22-5726-4fd5-a5e2-ba827f0198a5</webElementGuid>
+      <value>Comment</value>
+      <webElementGuid>f8ba42b2-4d2a-478d-91cb-fd4590255858</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>rows</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>eba64f0f-edf1-4640-997c-dbd407a9762c</webElementGuid>
+      <value>10</value>
+      <webElementGuid>362daabf-239d-44b6-b48b-826987b976f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;txt-username&quot;)</value>
-      <webElementGuid>736368a1-ce91-4a7f-81eb-a33690dd599a</webElementGuid>
+      <value>id(&quot;txt_comment&quot;)</value>
+      <webElementGuid>e982f68c-3f79-4f18-a982-63aed9503557</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='txt-username']</value>
-      <webElementGuid>2167feac-6338-4c1d-a5b7-bf063c88023c</webElementGuid>
+      <value>//textarea[@id='txt_comment']</value>
+      <webElementGuid>88b69af4-5144-40c2-a045-58c0e21e3697</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='login']/div/div/div[2]/form/div[2]/div/input</value>
-      <webElementGuid>5ce7af73-3bc1-4ebb-ad7f-771109735917</webElementGuid>
+      <value>//section[@id='appointment']/div/div/form/div[5]/div/textarea</value>
+      <webElementGuid>04d685f8-b226-43e9-910f-bdfe138902d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>46d9bef1-8092-4bc4-8da3-0797f4fd7c77</webElementGuid>
+      <value>//textarea</value>
+      <webElementGuid>2a8d2a13-8211-4269-ad3e-52a8c634aac6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'txt-username' and @name = 'username' and @placeholder = 'Username']</value>
-      <webElementGuid>afa36b7e-cf27-44b1-9c16-31a617203d6b</webElementGuid>
+      <value>//textarea[@id = 'txt_comment' and @name = 'comment' and @placeholder = 'Comment']</value>
+      <webElementGuid>787d88aa-1b5b-4738-8d5d-feb13ba46d47</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
