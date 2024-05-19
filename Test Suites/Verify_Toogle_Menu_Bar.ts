@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Verify_Footer</name>
+   <name>Verify_Toogle_Menu_Bar</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>a56c7d19-9b72-43ad-aee1-ab92515214ef</testSuiteGuid>
+   <testSuiteGuid>1034b530-77f6-4f3a-8c51-dc3d21a6ddeb</testSuiteGuid>
    <testCaseLink>
-      <guid>e272dbf8-a565-475f-a6db-fb130a8fe8a0</guid>
+      <guid>02e4de15-c4a4-41b9-a059-21d03531de5d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify_Footer_Copyright</testCaseId>
+      <testCaseId>Test Cases/Verify_Toogle_Menu_Items</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>39e4c1bc-4a4c-4700-9ddb-6977b07fd0a8</guid>
+      <guid>1822bb46-de53-40a5-962d-0709e55cd1ad</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify_Footer_Email</testCaseId>
+      <testCaseId>Test Cases/Verify_Toggle_Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>59174257-1418-4bd7-8a7d-82d17f1fcacc</guid>
+      <guid>6660f04b-b2cf-4e0d-bc93-6d5bc2c8f2c7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify_Phone_Number</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>368030c2-7d0d-4187-a0a1-c13dfb1e2bf3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify_Address</testCaseId>
+      <testCaseId>Test Cases/Verify_Clickable_Toggle_Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
