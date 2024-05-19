@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Verify_Home_Page</name>
+   <name>Verify_Clickable_Bottom_To_Top</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>0e5a47f7-f1c6-4fcb-9f5f-d0fb2780f066</testSuiteGuid>
+   <testSuiteGuid>7b5bcd34-b5f7-4508-b4c0-d2b453d3565d</testSuiteGuid>
    <testCaseLink>
-      <guid>a3d2ad0d-9ade-44d8-9681-48f0a2bfff59</guid>
+      <guid>74786fa0-0516-4d77-ab89-c20fe798f015</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify CURA Healthcare Service text</testCaseId>
+      <testCaseId>Test Cases/CURA Healthcare/Verify_Clickable_To_Top_Button</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>325d988d-2bae-4a01-aae3-fe30f24e43e7</guid>
+      <guid>d0df7f14-cb56-4404-90e1-520686651320</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify_Clickable_Button</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>7fad8e78-aeb0-467c-bde8-852c63e23088</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify_Footer_Copyright</testCaseId>
+      <testCaseId>Test Cases/CURA Healthcare/Verify_Click_To_Top_Botton</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

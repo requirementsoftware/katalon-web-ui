@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Verify_Social_Icon</name>
+   <name>Verify_Toogle_Menu_Bar</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>c2fe0c8b-4c8b-4790-bbe5-05ea1bf12f96</testSuiteGuid>
+   <testSuiteGuid>1034b530-77f6-4f3a-8c51-dc3d21a6ddeb</testSuiteGuid>
    <testCaseLink>
-      <guid>03dda973-af0f-459b-9d4d-aa7d16f4b932</guid>
+      <guid>02e4de15-c4a4-41b9-a059-21d03531de5d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify_Dribbble_Ico</testCaseId>
+      <testCaseId>Test Cases/CURA Healthcare/Verify_Toogle_Menu_Items</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>139c1bab-edb7-4a3f-8941-9a98e947a68c</guid>
+      <guid>1822bb46-de53-40a5-962d-0709e55cd1ad</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify_Facebook_Ico</testCaseId>
+      <testCaseId>Test Cases/CURA Healthcare/Verify_Toggle_Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c68e16d6-dbf0-4371-b3b3-dc585b91743f</guid>
+      <guid>6660f04b-b2cf-4e0d-bc93-6d5bc2c8f2c7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify_Twitter_Ico</testCaseId>
+      <testCaseId>Test Cases/CURA Healthcare/Verify_Clickable_Toggle_Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

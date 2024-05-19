@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Verify_Clickable_Bottom_To_Top</testSuiteEntity>
+         <testSuiteEntity>Test Suites/CURA Healthcare/Verify_Clickable_Bottom_To_Top</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Verify_Toogle_Menu_Bar</testSuiteEntity>
+         <testSuiteEntity>Test Suites/CURA Healthcare/Verify_Toogle_Menu_Bar</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
