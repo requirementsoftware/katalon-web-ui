@@ -21,7 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
-WebUI.verifyElementPresent(findTestObject('Page_CURA Healthcare Service/i_infokatalon.com_fa fa-dribble fa-fw fa-3x'), 0)
+WebUI.verifyElementPresent(findTestObject('Page_CURA Healthcare Service/i_infokatalon.com_fa fa-dribbble fa-fw fa-3x'), 
+    0)
 
 WebUI.closeBrowser()
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_infokatalon.com_fa fa-dribble fa-fw fa-3x</name>
+   <name>i_infokatalon.com_fa fa-dribbble fa-fw fa-3x</name>
    <tag></tag>
    <elementGuidId>da4f677a-6bfe-4e20-bab0-175e21851c15</elementGuidId>
    <selectorCollection>
@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[contains(@class, 'fa-twitter')]</value>
+         <value>//*[contains(@class, 'fa-dribbble')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -33,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>ece6d6a2-bd1c-47ae-b37a-bb0e52a23375</webElementGuid>
+      <webElementGuid>b6c1418e-c31c-4232-99be-0aa5e973b9aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>contains</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fa-dribble</value>
-      <webElementGuid>056c7876-9669-40a9-a560-f5ad87786f6d</webElementGuid>
+      <value>fa-dribbble</value>
+      <webElementGuid>fce78036-04e5-4ee4-8942-6fc43d225a29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]/ul[@class=&quot;list-inline&quot;]/li[2]/a[1]/i[@class=&quot;fa fa-twitter fa-fw fa-3x&quot;]</value>
-      <webElementGuid>88f25029-66d7-4afb-9036-405454e3eebe</webElementGuid>
+      <webElementGuid>b4081bc4-24a7-40c4-94e5-00890a5e0626</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a/i</value>
-      <webElementGuid>94ca5a81-5ff6-42ec-8db7-6c2a79e21fb8</webElementGuid>
+      <webElementGuid>a3047bd5-484b-4112-8ed0-682f3cc6f073</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,6 +65,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a/i</value>
-      <webElementGuid>5660735f-bd7d-4c12-ae2b-476c513e5b7e</webElementGuid>
+      <webElementGuid>2f09fc9d-6076-4325-a210-ab7d603e87e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
