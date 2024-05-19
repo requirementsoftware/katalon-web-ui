@@ -24,11 +24,5 @@ WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 WebUI.scrollToElement(findTestObject('Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024'), 
     0)
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_CURA Healthcare Service/a_infokatalon.com_to-top'), 0)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_CURA Healthcare Service/a_infokatalon.com_to-top'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_infokatalon.com_to-top'))
-
 WebUI.closeBrowser()
 
