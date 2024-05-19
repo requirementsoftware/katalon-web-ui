@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>ff2e3944-29d2-453e-8f39-57dc85f49fa5</webElementGuid>
+      <webElementGuid>25c9803a-f14b-47bc-a7cc-e67db2ebf943</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>lead</value>
-      <webElementGuid>4695be1f-707e-4067-b429-2a99ccc98f14</webElementGuid>
+      <webElementGuid>d1cb0805-87e9-487e-83e3-184c5954d4a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Please login to make appointment.</value>
-      <webElementGuid>c1580fac-bc95-459b-af76-fc96b4f8e6b7</webElementGuid>
+      <webElementGuid>dd196a2e-b0b2-4162-be38-c4dfbfcbde01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 text-center&quot;]/p[@class=&quot;lead&quot;]</value>
-      <webElementGuid>831ddf93-628c-4019-a20d-48b1d20e08bf</webElementGuid>
+      <webElementGuid>ef780088-625b-452c-8660-888ba1656504</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='login']/div/div/div/p</value>
-      <webElementGuid>b83718b5-3afa-4738-aa49-136d4243ead2</webElementGuid>
+      <webElementGuid>756b4fe1-1262-469c-9269-753d9ef4b8e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::p[1]</value>
-      <webElementGuid>049780e4-ab27-418e-88e8-559b8f109e88</webElementGuid>
+      <webElementGuid>d21cca3a-0543-4b4a-83ab-9089cbc33091</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::p[1]</value>
-      <webElementGuid>989031d7-07e1-4d96-a488-3ca10c9ac448</webElementGuid>
+      <webElementGuid>128ae493-30bc-41bc-8c4d-75eacd7c56c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo account'])[1]/preceding::p[1]</value>
-      <webElementGuid>6081a83d-7e78-44d2-a4f0-244147b43518</webElementGuid>
+      <webElementGuid>a6212799-78f5-452b-b331-02fdf49730ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::p[1]</value>
-      <webElementGuid>1cf52e55-da08-4389-8e40-e3e713594fff</webElementGuid>
+      <webElementGuid>06d53954-3b1e-428d-80ea-c6455ec808a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Please login to make appointment.']/parent::*</value>
-      <webElementGuid>6496e4de-b666-4f20-9ec7-98def9188e3b</webElementGuid>
+      <webElementGuid>234299c0-8267-4e62-9879-e0ce64446be5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>2754c7e5-cf36-4ffb-b5de-262e8d6a614e</webElementGuid>
+      <webElementGuid>06b08dc7-273f-4b74-a1f5-5e58c20b6e4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Please login to make appointment.' or . = 'Please login to make appointment.')]</value>
-      <webElementGuid>cb73417d-d5f0-4705-a0df-1c9817ef0ac4</webElementGuid>
+      <webElementGuid>55c7d11c-a709-4281-a091-d03185f06e9a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

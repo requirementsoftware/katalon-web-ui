@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h3</value>
-      <webElementGuid>89b6647f-bdf1-4cef-a64f-313e1cfc9d4e</webElementGuid>
+      <webElementGuid>6c38c7cd-b08e-40cc-86d8-71aca58c90cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>We Care About Your Health</value>
-      <webElementGuid>ccd92cfb-ac99-4317-9c3d-6de23510c75b</webElementGuid>
+      <webElementGuid>debb6c44-ee3c-42f2-9d35-dfc7c26174fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top&quot;)/div[@class=&quot;text-vertical-center&quot;]/h3[1]</value>
-      <webElementGuid>937cbba6-8d16-4c93-b654-31bf41938c09</webElementGuid>
+      <webElementGuid>696ba1e6-2df4-4dd1-bfca-704b40b90256</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//header[@id='top']/div/h3</value>
-      <webElementGuid>487700b7-b8cf-421d-9c72-97bf4228b055</webElementGuid>
+      <webElementGuid>2034900f-a78a-4efe-a714-42e35c7c516d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[2]/following::h3[1]</value>
-      <webElementGuid>b7ef26e2-1026-44df-ae22-809df0f41749</webElementGuid>
+      <webElementGuid>d6c253cb-ab1a-45a5-be20-da929e98f20e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::h3[1]</value>
-      <webElementGuid>9a220f7d-2299-4857-a725-640d2fb54ca2</webElementGuid>
+      <webElementGuid>eea0868a-cbb1-407b-b838-2fe189294141</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/preceding::h3[1]</value>
-      <webElementGuid>3dfd940f-b7ab-411d-9741-4cc128cfdccb</webElementGuid>
+      <webElementGuid>412d6f37-75f3-4f3a-b6cb-b04fce6a97cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::h3[1]</value>
+      <webElementGuid>5231ca94-20b4-4e1c-87f2-c9905337d646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='We Care About Your Health']/parent::*</value>
+      <webElementGuid>b1e3c6c6-e7fd-4c60-a5f4-be44549adf96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>52ce4a12-1c3d-48fc-a374-1ae8bb8bcdc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'We Care About Your Health' or . = 'We Care About Your Health')]</value>
+      <webElementGuid>44eebc05-9743-417c-b6db-1389904f29f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,29 +118,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::h3[1]</value>
       <webElementGuid>a739c24e-e4b2-47f9-b7d6-c3cb27c950c5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='We Care About Your Health']/parent::*</value>
-      <webElementGuid>25ef0e26-a6cd-4696-88d3-3afc1babc8f4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//h3</value>
-      <webElementGuid>496be58e-0051-44ba-8fc1-70568ed85f7f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//h3[(text() = 'We Care About Your Health' or . = 'We Care About Your Health')]</value>
-      <webElementGuid>eaa0ffa5-0166-481f-aeb3-bbb553591793</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
