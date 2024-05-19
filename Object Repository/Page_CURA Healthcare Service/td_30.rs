@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_CURA Healthcare_menu-toggle</name>
+   <name>td_30</name>
    <tag></tag>
-   <elementGuidId>abbffd84-a52d-4b1c-b60b-69b6ef00975f</elementGuidId>
+   <elementGuidId>5f4fec31-40ae-49a2-9f6a-adfb150a7cc3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#menu-toggle</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='menu-toggle']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[33]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;&quot;i]</value>
+         <value>internal:role=cell[name=&quot;30&quot;i] >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>5e187562-cbde-40ef-a8a5-1398abd39f22</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>menu-toggle</value>
-      <webElementGuid>3fea06c2-935c-436c-aa81-bab252d0d38e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>#</value>
-      <webElementGuid>d14e9429-9149-4128-ad70-81b62e328d1e</webElementGuid>
+      <value>td</value>
+      <webElementGuid>0f8c811c-3fc3-4cbd-a448-cfa5efe3cb45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-dark btn-lg toggle</value>
-      <webElementGuid>20602017-f0f9-404d-81c6-dafdf6a85813</webElementGuid>
+      <value>day</value>
+      <webElementGuid>f675c9c5-b561-4db4-8dd2-c6e2d634ca58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>2bab002c-0e0c-4198-b940-916af3725724</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-toggle&quot;)</value>
-      <webElementGuid>e8e81f69-a5bd-493a-9766-2c5f71d45ce2</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[5]/td[@class=&quot;day&quot;]</value>
+      <webElementGuid>455b8587-29ba-45ba-9eff-620d5f96106e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[@id='menu-toggle']</value>
-      <webElementGuid>c09ff137-7461-44ba-bc3f-2073f0c86145</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[33]</value>
+      <webElementGuid>c438edba-ba6e-45cd-8303-907012d36c4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare'])[1]/preceding::a[2]</value>
-      <webElementGuid>c7766fb8-4736-44e3-9268-d9b72224a8ab</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[33]</value>
+      <webElementGuid>428003b4-6649-4a82-b3d1-83b7f37ab59c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[3]</value>
-      <webElementGuid>9fba30ad-865b-4d9c-ab0d-b98745a78a8e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[10]</value>
+      <webElementGuid>0b7d85fd-3192-4837-aa28-0a8ce40a0a4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>49b3897c-c74b-4654-892c-1bfeb2535122</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[10]</value>
+      <webElementGuid>4817e6e9-7caa-4851-ba27-a47ce0b25ec9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a</value>
-      <webElementGuid>883eb209-4492-4edb-ac67-ebe4f77eab7a</webElementGuid>
+      <value>//tr[5]/td[5]</value>
+      <webElementGuid>a2d854db-4f5e-4697-91e3-535f4e97cd2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'menu-toggle' and @href = '#']</value>
-      <webElementGuid>5942ae1a-fbc6-4d27-94d7-26f713be91ba</webElementGuid>
+      <value>//td[(text() = '30' or . = '30')]</value>
+      <webElementGuid>d9f7127d-1cbf-4a4d-b07b-4c839ddf80bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

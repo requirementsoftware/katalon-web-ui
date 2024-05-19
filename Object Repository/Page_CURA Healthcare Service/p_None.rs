@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>p_None</name>
    <tag></tag>
-   <elementGuidId>c107d17f-e414-4bd8-900a-5193d567acfb</elementGuidId>
+   <elementGuidId>e8eb8154-aff3-41aa-924e-7c406e2cbc4c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#btn-login</value>
+         <value>#program</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='btn-login']</value>
+         <value>//p[@id='program']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+         <value>internal:text=&quot;None&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>20b4b229-8d9c-4753-940e-36b367c1a81a</webElementGuid>
+      <value>p</value>
+      <webElementGuid>2d3726ff-191f-44f1-8104-c922a7d4267e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>btn-login</value>
-      <webElementGuid>7ac91a2d-5e89-4e58-a0bc-7997663b7141</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>0a70ce82-9490-4a96-bf26-d854de103361</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-default</value>
-      <webElementGuid>7a7cc0cd-9679-42fd-b680-5fbcf17d81f6</webElementGuid>
+      <value>program</value>
+      <webElementGuid>67b7793c-8288-4824-adf8-0ae6ee68efab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>d66813e7-ebcb-46ec-8dca-915d853c3c7e</webElementGuid>
+      <value>None</value>
+      <webElementGuid>57b85e26-a60e-4bfd-8ed1-dda0660be30e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btn-login&quot;)</value>
-      <webElementGuid>d3a06493-f1a2-468a-93f7-ac489a254a8d</webElementGuid>
+      <value>id(&quot;program&quot;)</value>
+      <webElementGuid>9b1e63e2-dde0-4269-9eea-6580d58d5689</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='btn-login']</value>
-      <webElementGuid>f20b8e71-3886-4e30-bf6b-6be4892f4fd0</webElementGuid>
+      <value>//p[@id='program']</value>
+      <webElementGuid>40d2cbab-30e6-4e8a-b3cf-57ee4cfcb5ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='login']/div/div/div[2]/form/div[4]/div/button</value>
-      <webElementGuid>6c1103d1-30a8-46be-b15a-973fc7038957</webElementGuid>
+      <value>//section[@id='summary']/div/div/div[4]/div[2]/p</value>
+      <webElementGuid>09525638-a5d1-4906-9c1b-2fcc0124b1ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>71d2300b-1b57-4c28-9aad-aaeb1f2ba924</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/following::p[1]</value>
+      <webElementGuid>ffcd1c70-d7f7-4ce9-97e5-eba2eb0f5505</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[1]</value>
-      <webElementGuid>1091c47c-f188-489f-9b1c-4f2f6047dbaa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply for hospital readmission'])[1]/following::p[2]</value>
+      <webElementGuid>e193900f-6e1f-41b3-b0a4-dc4c2fda6ebb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::button[1]</value>
-      <webElementGuid>9aceeaab-5439-4cb2-a878-dadfdda61b55</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date'])[1]/preceding::p[1]</value>
+      <webElementGuid>83832971-8843-425b-b2e4-c20a01d4c80e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(678) 813-1KMS'])[1]/preceding::button[1]</value>
-      <webElementGuid>6b7732ed-5eeb-4acc-8c0f-75a1f886b9cb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/preceding::p[2]</value>
+      <webElementGuid>40f46f48-a42a-4d89-af0f-8043a620b9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='None']/parent::*</value>
+      <webElementGuid>abdd67ec-4fc5-4b1c-a917-fb032395e9f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>3985b05b-247e-4a0e-b30f-71e38485b021</webElementGuid>
+      <value>//div[4]/div[2]/p</value>
+      <webElementGuid>34818621-437c-46cf-a02d-6eed819b9c4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>bfcb758a-0d18-492b-ba2a-4e658ddc0783</webElementGuid>
+      <value>//p[@id = 'program' and (text() = 'None' or . = 'None')]</value>
+      <webElementGuid>9a931892-226d-44c4-9276-f9544f214235</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
