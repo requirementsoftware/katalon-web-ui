@@ -7,22 +7,22 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>i.fa.fa-twitter.fa-fw.fa-3x</value>
+         <value>i.fa.fa-bars</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[2]/a/i</value>
+         <value>//a[@id='menu-toggle']/i</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[contains(@class, 'fa-dribbble')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;&quot;i]</value>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,26 +33,42 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>b6c1418e-c31c-4232-99be-0aa5e973b9aa</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>contains</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>fa-dribbble</value>
-      <webElementGuid>fce78036-04e5-4ee4-8942-6fc43d225a29</webElementGuid>
+      <webElementGuid>e292e015-b77a-4485-9371-c6f7a5407173</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-bars</value>
+      <webElementGuid>03c6997e-ab50-40ff-9056-e6c45b0e4cb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]/ul[@class=&quot;list-inline&quot;]/li[2]/a[1]/i[@class=&quot;fa fa-twitter fa-fw fa-3x&quot;]</value>
-      <webElementGuid>b4081bc4-24a7-40c4-94e5-00890a5e0626</webElementGuid>
+      <value>id(&quot;menu-toggle&quot;)/i[@class=&quot;fa fa-bars&quot;]</value>
+      <webElementGuid>6aad5725-1ed1-4164-869f-c8c92360e25b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu-toggle']/i</value>
+      <webElementGuid>335ee731-544d-4c55-8c9f-1e1faf04ee25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>2253d419-d294-490e-85b1-4c4c0bd4d89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
