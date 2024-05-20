@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/following::li[1]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '(678) 813-1KMS' or . = '(678) 813-1KMS')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>d718bcc5-dad9-4a35-910a-26e9cb06deb7</webElementGuid>
+      <webElementGuid>7a0ef941-0cc2-4316-bfc6-7cca38519792</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> (678) 813-1KMS</value>
-      <webElementGuid>c1ecec04-2471-4a92-bc2d-75e23a31e128</webElementGuid>
+      <value>(678) 813-1KMS</value>
+      <webElementGuid>0fad3803-5d5d-45bc-b185-0b1fd7a3e61a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[1]</value>
-      <webElementGuid>55b8162c-99d7-4b2e-8cd1-13cd29fdf891</webElementGuid>
+      <webElementGuid>bded8174-fe1a-466f-b663-3b1f84f31a8b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/following::li[1]</value>
-      <webElementGuid>3e912bbf-6122-4e61-87a0-5f6509f26976</webElementGuid>
+      <webElementGuid>b11c8af3-8a24-4b9a-94c5-c4185baf5e42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::li[1]</value>
-      <webElementGuid>2826906d-a88b-467c-b138-c2f8748f662b</webElementGuid>
+      <webElementGuid>8326198b-b567-41ab-8bcf-fca39834af6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='info@katalon.com'])[1]/preceding::li[1]</value>
-      <webElementGuid>bebc7c16-5772-447f-8bb3-f1f2b2668ae2</webElementGuid>
+      <webElementGuid>3917049a-6cbe-4cb8-a5e3-18069534c31d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='(678) 813-1KMS']/parent::*</value>
-      <webElementGuid>4754b0ea-a9a1-4e75-a73e-e8d4cd5e0bff</webElementGuid>
+      <webElementGuid>cab53e18-ea52-46f6-bc9a-f844e5e156ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/ul/li</value>
-      <webElementGuid>2ca04f14-bace-450b-93b3-5ca0ae1d851e</webElementGuid>
+      <webElementGuid>431f5f16-320a-4897-8f8c-3ede9537406b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = ' (678) 813-1KMS' or . = ' (678) 813-1KMS')]</value>
-      <webElementGuid>35d599ef-a770-4065-bb85-fca0f907659d</webElementGuid>
+      <webElementGuid>3494fa40-d248-4344-93cc-7034f3848c93</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
