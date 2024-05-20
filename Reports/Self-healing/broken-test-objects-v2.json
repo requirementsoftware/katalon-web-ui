@@ -9,6 +9,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_CURA Healthcare Service/li_(678) 813-1KMS_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/img_Singapore (English)_img-logo",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027header\u0027]/div/div/div[2]/div/div/div/a/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/img_Singapore (English)_img-logo_idRelative.png"
     }
   ]
 }
