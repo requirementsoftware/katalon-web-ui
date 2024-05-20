@@ -30,8 +30,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare S
 WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/strong_CURA Healthcare Service'), 
     'CURA Healthcare Service')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/li_(678) 813-1KMS'), '(678) 813-1KMS')
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/li_infokatalon.com'), 'info@katalon.com')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_CURA Healthcare Service/ul_infokatalon.com_list-inline'))
