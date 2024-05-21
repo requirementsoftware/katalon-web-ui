@@ -25,10 +25,10 @@ WebUI.scrollToElement(findTestObject('FPT/Page_FPT Software  Leading in Digital 
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_About Us'), 
-    'ABOUT US')
+    'About Us')
 
 WebUI.verifyElementText(findTestObject('Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Contact us'), 
-    'CONTACT US')
+    'Contact Us')
 
 WebUI.closeBrowser()
 
