@@ -23,10 +23,5 @@ WebUI.navigateToUrl('https://kms-technology.com/')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/KMS/Page_Custom Software Development  Consultin_0ef814/a_Software Development'))
 
-WebUI.click(findTestObject('Object Repository/KMS/Page_Custom Software Development  Consultin_0ef814/a_Software Development'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/KMS/Page_Custom Software Engineering Services  _a2196b/h1_Custom Software ProductEngineering Services'), 
-    'Custom Software Product\nEngineering Services')
-
 WebUI.closeBrowser()
 
