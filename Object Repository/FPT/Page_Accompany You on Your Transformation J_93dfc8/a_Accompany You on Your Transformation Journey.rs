@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Accompany You on Your Transformation Journey</name>
    <tag></tag>
-   <elementGuidId>fd24f888-7813-48ce-a5e0-23855a23533a</elementGuidId>
+   <elementGuidId>98a72175-553a-4c20-af02-d2ee0d924384</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5763b19a-b886-4a89-82c7-bbb0ed5b5fa1</webElementGuid>
+      <webElementGuid>88d9638e-6aba-4a1d-ac32-1c1961ba2f54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/accompany-your-transformation</value>
-      <webElementGuid>a04b72b8-8328-41b4-aab2-8ac40ff3ca24</webElementGuid>
+      <webElementGuid>a71cd7f4-9697-4f83-b202-21b4ce2b1408</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>data-hover-target</name>
       <type>Main</type>
       <value>{E26586BC-8373-4689-BB45-6F092B3838B0}</value>
-      <webElementGuid>7dc6cc31-4d2e-47f6-aca5-a5fa08ddb0cf</webElementGuid>
+      <webElementGuid>216140ef-384b-47ca-ae15-9a1d7222644d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-page-active</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>5634f048-ccc1-4f8b-a31c-e1d12439e86e</webElementGuid>
+      <value>true</value>
+      <webElementGuid>75a00019-1a1b-41c4-bbd4-1ed7ec19de83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>active</value>
-      <webElementGuid>2331fb6d-d60e-4262-b79d-c9873f6d76a9</webElementGuid>
+      <webElementGuid>ebe89ca3-7c7f-4949-a918-98bd672482ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,15 +71,15 @@
       <value> 
     Accompany You on Your Transformation Journey
 </value>
-      <webElementGuid>057acf4e-fd17-4cc4-a1aa-e04393c95d4a</webElementGuid>
+      <webElementGuid>2945fd42-97a4-4a3c-b0d4-de0719f54b58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;header&quot;)/div[@class=&quot;component fsoft-container&quot;]/div[@class=&quot;component-content&quot;]/div[@class=&quot;component fsoft-container bgr-white header-container-second&quot;]/div[@class=&quot;component-content&quot;]/div[@class=&quot;component main-navigation&quot;]/div[@class=&quot;component-content&quot;]/nav[@class=&quot;nav-main&quot;]/ul[@class=&quot;nav-main__menu d-flex align-items-center&quot;]/li[@class=&quot;rel-level1  level1 item0 odd first nav-main__first--li has-sub&quot;]/a[@class=&quot;active&quot;]</value>
-      <webElementGuid>79b8cbe9-b8d3-44fe-8642-dcae9571284c</webElementGuid>
+      <value>id(&quot;header&quot;)/div[@class=&quot;component fsoft-container&quot;]/div[@class=&quot;component-content&quot;]/div[@class=&quot;component fsoft-container bgr-white header-container-second&quot;]/div[@class=&quot;component-content&quot;]/div[@class=&quot;component main-navigation&quot;]/div[@class=&quot;component-content&quot;]/nav[@class=&quot;nav-main&quot;]/ul[@class=&quot;nav-main__menu d-flex align-items-center&quot;]/li[@class=&quot;rel-level1  level1 item0 odd first active nav-main__first--li has-sub&quot;]/a[@class=&quot;active&quot;]</value>
+      <webElementGuid>516af912-0d49-47c4-a96e-d9b9bc7ed462</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header']/div/div/div[2]/div/div[3]/div/nav/ul/li/a</value>
-      <webElementGuid>9ebad745-8e3f-40ca-929f-38537e3cf0fd</webElementGuid>
+      <webElementGuid>9ee146f8-c9dd-4e19-9f0f-fb27b70282c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Accompany You on Your Transformation Journey')]</value>
-      <webElementGuid>95c5bb80-3b42-4342-b530-df77142c7acd</webElementGuid>
+      <webElementGuid>144ec99b-d20a-450b-9d7d-f0f87ec8e920</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore (English)'])[1]/following::a[2]</value>
-      <webElementGuid>e7ba6399-8791-441a-b9d4-27b9d77adcc6</webElementGuid>
+      <webElementGuid>7ebd722e-3ffe-4337-9ff6-9ace250ff885</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Americas (English)'])[1]/following::a[3]</value>
-      <webElementGuid>caf05589-0c58-4156-9a91-183c7643c2a4</webElementGuid>
+      <webElementGuid>71548313-998f-4102-ae0d-144241e28e99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::a[1]</value>
-      <webElementGuid>8fe1ff2a-6ace-4095-92c5-b9715358f9b9</webElementGuid>
+      <webElementGuid>f2af7863-ee14-49e5-89d0-2e12688dee44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Strategic Consultancy'])[1]/preceding::a[2]</value>
-      <webElementGuid>fd4ba47a-1119-44f4-bf4f-b5cb92f8620e</webElementGuid>
+      <webElementGuid>1db4ecb5-3198-47ee-8318-21149ded38d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Accompany You on Your Transformation Journey']/parent::*</value>
-      <webElementGuid>96f803df-c63e-4b30-bf51-95f85c493c24</webElementGuid>
+      <webElementGuid>cea32f3b-47fa-4792-a5c5-e8b213dbf2f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/accompany-your-transformation')]</value>
-      <webElementGuid>f6364d30-53d8-4883-965f-eb1966aadeda</webElementGuid>
+      <webElementGuid>bcb9dceb-1930-491b-86dc-39cf42cd50e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +151,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/ul/li/a</value>
-      <webElementGuid>119cfb11-80f5-43e7-a43f-127a193ea738</webElementGuid>
+      <webElementGuid>1db52c29-1511-4fdd-af02-a66431cbc423</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -163,6 +163,6 @@
 ' or . = ' 
     Accompany You on Your Transformation Journey
 ')]</value>
-      <webElementGuid>6d18c252-a357-4df8-87aa-78e6cd30d714</webElementGuid>
+      <webElementGuid>2c2c9d35-3d27-427e-b464-5c7ff2228f2f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

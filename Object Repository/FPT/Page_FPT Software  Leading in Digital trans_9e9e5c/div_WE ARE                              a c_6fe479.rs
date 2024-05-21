@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='our-missions']/div/div/div</value>
+         <value>//div[@id='our-missions']/div/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.component.fsoft-promo.our-mission > div.component-content</value>
+         <value>div.component-content > div.container-full-grid</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#our-missions div >> internal:has-text=&quot;WE ARE a comprehensive IT consulting &amp; service provider We are committed to deli&quot;i >> nth=2</value>
+         <value>internal:text=&quot;WE ARE a comprehensive IT consulting &amp; service provider We are committed to deli&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>82d15303-9f10-4154-b9bd-0b65328edbf2</webElementGuid>
+      <webElementGuid>3b597a01-c7bd-4027-8ed9-25caabe28ffb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>component-content</value>
-      <webElementGuid>12d65543-7bf1-4f4e-8389-91e3b7f334b8</webElementGuid>
+      <value>container-full-grid</value>
+      <webElementGuid>c0697685-c255-479f-8c62-a91ff96cbc5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,6 @@
       <name>text</name>
       <type>Main</type>
       <value>
-
    WE ARE
    
       
@@ -74,19 +73,109 @@ Speed, Scale, Global Presence, Quality and Compliance.
    
     Our Mission
    
-        </value>
-      <webElementGuid>e60c26ef-3d74-4df7-b941-fef1ebc7e45c</webElementGuid>
+</value>
+      <webElementGuid>68f9fc54-7f23-43ee-b9f7-7a7d31dd328a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;our-missions&quot;)/div[@class=&quot;component-content&quot;]/div[@class=&quot;component fsoft-promo our-mission&quot;]/div[@class=&quot;component-content&quot;]</value>
-      <webElementGuid>24ddd803-7c94-4bef-8407-2b97d9d0bc66</webElementGuid>
+      <value>id(&quot;our-missions&quot;)/div[@class=&quot;component-content&quot;]/div[@class=&quot;component fsoft-promo our-mission&quot;]/div[@class=&quot;component-content&quot;]/div[@class=&quot;container-full-grid&quot;]</value>
+      <webElementGuid>717a37fd-aaee-4c73-bdba-2fe717f0380e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='our-missions']/div/div/div/div</value>
+      <webElementGuid>07291ecc-e2da-4d43-9f08-70531a5d19a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FPT Software Listed in Gartner® Report For Public Cloud Services'])[4]/following::div[6]</value>
+      <webElementGuid>17cd2a5b-911c-48e3-a8cf-1926e5c9216f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[2]/div/div/div/div</value>
+      <webElementGuid>6caa2754-e819-42d5-948f-7252281b8a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+   WE ARE
+   
+      
+         
+            
+a 
+comprehensive
+
+IT consulting &amp;
+service provider
+         
+      
+      
+         
+      
+   
+   
+      
+         We are committed to delivering world-class technology solutions for complex business 
+ opportunities and challenges, leveraging from our five most compelling strengths of
+Speed, Scale, Global Presence, Quality and Compliance.
+      
+      
+         
+      
+   
+    Our Mission
+   
+' or . = '
+   WE ARE
+   
+      
+         
+            
+a 
+comprehensive
+
+IT consulting &amp;
+service provider
+         
+      
+      
+         
+      
+   
+   
+      
+         We are committed to delivering world-class technology solutions for complex business 
+ opportunities and challenges, leveraging from our five most compelling strengths of
+Speed, Scale, Global Presence, Quality and Compliance.
+      
+      
+         
+      
+   
+    Our Mission
+   
+')]</value>
+      <webElementGuid>758b97f5-441b-4d31-800e-21c37fe2c089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
