@@ -21,9 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sutrixgroup.com/en/')
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Sutrix/Page_Sutrix Group  Global System Integrator/a_Contact Us'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Sutrix/Page_Sutrix Group  Global System Integrator/a_Contact Us'))
 
 WebUI.closeBrowser()

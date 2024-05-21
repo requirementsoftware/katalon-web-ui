@@ -21,7 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://fptsoftware.com/')
 
-WebUI.rightClick(findTestObject('Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/p_Heading towards a digital-first future'))
-
 WebUI.closeBrowser()
 
