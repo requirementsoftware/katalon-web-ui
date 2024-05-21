@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://fptsoftware.com/')
 
-WebUI.click(findTestObject('Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Our Mission'))
+WebUI.click(findTestObject('FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Industries'))
 
 WebUI.closeBrowser()
 
