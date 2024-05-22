@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_Shop Best Cars</name>
+   <name>h2_Your Car Guide</name>
    <tag></tag>
-   <elementGuidId>a34bb46b-6b8f-498f-8a51-81ea935d204b</elementGuidId>
+   <elementGuidId>08abd90d-773e-4b7b-8ed1-509a6e57a991</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='contentFor_kbbAdsBestCarsTile']/div/div/div/div/div/h2</value>
+         <value>//h2[@id='AbtKbbTitle']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>h2.e1vpc1b90.css-fqcwz6.e148eed12</value>
+         <value>#AbtKbbTitle</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=heading[name=&quot;Shop Best Cars&quot;i]</value>
+         <value>internal:role=heading[name=&quot;Your Car Guide&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>355eafb6-b4f7-4613-8b5c-9a9e9f74e10d</webElementGuid>
+      <webElementGuid>020eb77f-77d1-4bfc-a685-70ccb5975ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AbtKbbTitle</value>
+      <webElementGuid>5309445c-431a-4c25-9ad9-761d043bec57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>e1vpc1b90 css-fqcwz6 e148eed12</value>
-      <webElementGuid>ad30e899-ce70-4457-8c50-e261b8839664</webElementGuid>
+      <value>css-1eagefn e148eed12</value>
+      <webElementGuid>d91903be-706e-4cee-883c-1b9aebcde899</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Shop Best Cars</value>
-      <webElementGuid>f76cb443-2a1a-4cc7-a718-07c28aa8fa36</webElementGuid>
+      <value>Your Car Guide</value>
+      <webElementGuid>dca0d1b0-0edf-4a0d-9267-2e2e4052ba30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;contentFor_kbbAdsBestCarsTile&quot;)/div[@class=&quot;css-1xa55ag eaivgmg0&quot;]/div[@class=&quot;css-w44s3c e1l0ytpk0&quot;]/div[@class=&quot;css-1jjjg2j evb7z8x0&quot;]/div[@class=&quot;css-wplewq evb7z8x1&quot;]/div[1]/h2[@class=&quot;e1vpc1b90 css-fqcwz6 e148eed12&quot;]</value>
-      <webElementGuid>bf9dbcdc-7c14-4af0-8eb2-d765938778e3</webElementGuid>
+      <value>id(&quot;AbtKbbTitle&quot;)</value>
+      <webElementGuid>5982c5a8-33f3-4a13-ade8-77632c6f58cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='AbtKbbTitle']</value>
+      <webElementGuid>aa2eedb7-fc78-4685-b73e-b491234ab80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='contentFor_kbbAdsBestCarsTile']/div/div/div/div/div/h2</value>
-      <webElementGuid>7e61bd1f-2a9f-4045-b710-de01f577cfb9</webElementGuid>
+      <value>//main[@id='content']/div[9]/div/div/div/h2</value>
+      <webElementGuid>01a0fe36-75bd-4ecb-89fa-3c102ea5432d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check My Score'])[1]/following::h2[1]</value>
-      <webElementGuid>7287b434-f014-47cf-b968-8377ff6afa8e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATV Sport'])[1]/following::h2[1]</value>
+      <webElementGuid>b9e6a53f-9848-4f03-aedb-9ab437c3b064</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Know Your Score'])[1]/following::h2[1]</value>
-      <webElementGuid>1694b2bb-eace-46c3-aef3-d6115a0ccc66</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trail Dirt Bike'])[1]/following::h2[1]</value>
+      <webElementGuid>3b1a7232-a6f7-4dbd-9cde-74bdf502bfcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sponsored'])[1]/preceding::h2[1]</value>
-      <webElementGuid>30dee400-0e40-4363-b543-153e48f81937</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='find cars for sale'])[1]/preceding::h2[1]</value>
+      <webElementGuid>281bb741-40bf-4f9b-aa11-e90499f1a903</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best EVs'])[1]/preceding::h2[1]</value>
-      <webElementGuid>752f825f-ac0f-4df2-9f8b-91ce2bc16a48</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='motorcycle values'])[1]/preceding::h2[1]</value>
+      <webElementGuid>a3ba7f85-dc31-4c1a-a93c-ec82a38d8bf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Shop Best Cars']/parent::*</value>
-      <webElementGuid>f8db8d89-2414-4f62-8e98-d30ebc056fce</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Your Car Guide']/parent::*</value>
+      <webElementGuid>58a4b254-4079-4720-ba82-db40a9bd48d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/div/div[2]/div/div/div/div/div/h2</value>
-      <webElementGuid>08e8ace7-571c-430d-a1d0-d5bd50ae7994</webElementGuid>
+      <value>//div[9]/div/div/div/h2</value>
+      <webElementGuid>93700cf8-8ddc-4f57-89f6-e4101279daa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h2[(text() = 'Shop Best Cars' or . = 'Shop Best Cars')]</value>
-      <webElementGuid>8bf32664-3638-4fbf-89a0-7ff7f8966610</webElementGuid>
+      <value>//h2[@id = 'AbtKbbTitle' and (text() = 'Your Car Guide' or . = 'Your Car Guide')]</value>
+      <webElementGuid>09fa4935-a3ba-4e85-9451-bc3604555ccd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
