@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Contact Us</name>
+   <name>a_Do Not Process My Sensitive Information</name>
    <tag></tag>
-   <elementGuidId>5e1fd3f0-cd66-4222-b630-295a44724f12</elementGuidId>
+   <elementGuidId>aca6ffdc-3b3b-4b2f-9076-f3e40265ea78</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(//a[@type='unstyled'])[161]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@type='unstyled'])[163]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Contact Us&quot;i]</value>
+         <value>internal:role=link[name=&quot;Do Not Process My Sensitive Information&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0b980949-e26a-4026-a4b9-afe3abb83558</webElementGuid>
+      <webElementGuid>cf4b3b04-c708-4583-9463-449440bae715</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>data-automation</name>
       <type>Main</type>
       <value>undefinedfooter</value>
-      <webElementGuid>0a54044b-3c66-4c8b-bc63-76836b0c4ced</webElementGuid>
+      <webElementGuid>e46ab5bb-62da-4040-a728-8ee7132135a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,23 +45,23 @@
       <name>data-partner</name>
       <type>Main</type>
       <value>nx</value>
-      <webElementGuid>8bc360fa-cf91-496f-8a0d-54e49e529257</webElementGuid>
+      <webElementGuid>1f2e1d59-ffad-4491-bd68-33f1f1c9134d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-tag-id</name>
       <type>Main</type>
-      <value>footerLinks1</value>
-      <webElementGuid>b06ac09a-fab2-41f4-be97-18d208c90189</webElementGuid>
+      <value>footerLinks3</value>
+      <webElementGuid>44844099-1a94-423c-ad7e-e24b862c007d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/contact-us/</value>
-      <webElementGuid>249216a2-ad63-4d0d-b07f-ea7b507c252a</webElementGuid>
+      <value>/california-privacy-rights/</value>
+      <webElementGuid>83cd8f2c-d3e2-488e-ba1e-ef04c826b701</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>unstyled</value>
-      <webElementGuid>f4c2a9d4-dc5a-4061-9af6-2b56d8689052</webElementGuid>
+      <webElementGuid>f104bb34-e920-4c43-b5b7-4b25020a453b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_self</value>
-      <webElementGuid>182fe803-8f3e-488a-b200-d35eda8e3f45</webElementGuid>
+      <webElementGuid>5df8fe6e-702d-46d8-9e40-b3862fc0cecb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>class</name>
       <type>Main</type>
       <value>css-1yukjqw e1ez57g00</value>
-      <webElementGuid>87572104-928b-43f4-9ed9-e45c7f06f5d0</webElementGuid>
+      <webElementGuid>2cb0d0e0-518f-4d08-a27f-461b8e258dc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Contact Us</value>
-      <webElementGuid>6751cdef-f4f5-4fe6-8490-039c900d4fae</webElementGuid>
+      <value>Do Not Process My Sensitive Information</value>
+      <webElementGuid>3a7c075c-9552-48f8-853f-dfc209e1c6be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,94 +101,94 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;globalFooter&quot;)/div[@class=&quot;css-1vrab63&quot;]/div[@class=&quot;css-1nh907i&quot;]/a[@class=&quot;css-1yukjqw e1ez57g00&quot;]</value>
-      <webElementGuid>760dd931-d3db-4eb7-a4e7-85b2b6bc9624</webElementGuid>
+      <webElementGuid>360a6c01-92aa-4a19-97bf-874927e3b41d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//a[@type='unstyled'])[161]</value>
-      <webElementGuid>2b0c0e0a-b6c2-46df-88cb-1517bb4e1d1b</webElementGuid>
+      <value>(//a[@type='unstyled'])[163]</value>
+      <webElementGuid>5df6f7f6-7991-413f-b63e-b4555b7730c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='globalFooter']/div/div/a[2]</value>
-      <webElementGuid>c49ada0c-822c-4c70-9552-35c7191f6176</webElementGuid>
+      <value>//div[@id='globalFooter']/div/div/a[4]</value>
+      <webElementGuid>78eb21ed-8c09-47d9-b617-f331ec5e2462</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Contact Us')]</value>
-      <webElementGuid>93cb6e5e-5ddb-43fb-8053-2466c10610bf</webElementGuid>
+      <value>//a[contains(text(),'Do Not Process My Sensitive Information')]</value>
+      <webElementGuid>1469305a-c3e0-4e5c-ac20-a66965c68cbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/following::a[1]</value>
-      <webElementGuid>a9147b8d-ed95-4ab6-a21e-bde3a88e71f5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[3]/following::a[1]</value>
+      <webElementGuid>4e1e01d2-7ad2-48ab-b6e9-f6769754dae2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::a[1]</value>
-      <webElementGuid>6f9596b9-0ec3-48fa-9b67-ff065067d0c3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do Not Sell My Personal Information'])[1]/following::a[1]</value>
+      <webElementGuid>5ba80c3c-c572-48ca-91be-9f79c78b1f30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/preceding::a[1]</value>
-      <webElementGuid>e27b23d5-5672-4b1f-a44f-7823d55dc905</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[4]/preceding::a[1]</value>
+      <webElementGuid>7853bdf7-fc98-4b7c-846f-089c9501a62a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do Not Sell My Personal Information'])[1]/preceding::a[1]</value>
-      <webElementGuid>4680ee1a-c481-408e-853f-e9e9c3b3377c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[1]</value>
+      <webElementGuid>d5d1a1ff-8f1d-4831-b01e-0211c16760a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Contact Us']/parent::*</value>
-      <webElementGuid>15603a97-86a1-4e99-a899-89ee8e8fff9c</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Do Not Process My Sensitive Information']/parent::*</value>
+      <webElementGuid>f70dfc7b-bcb0-4b6f-a2f8-bda65510e679</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/contact-us/')]</value>
-      <webElementGuid>f86b8776-d887-4714-93dc-baa1278b7b77</webElementGuid>
+      <value>(//a[contains(@href, '/california-privacy-rights/')])[2]</value>
+      <webElementGuid>dc1b311a-ef6f-4ad8-a792-47678383a8f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/a[2]</value>
-      <webElementGuid>ecde9326-bb98-453d-8d95-7519567c6e7b</webElementGuid>
+      <value>//div/div/div/div/a[4]</value>
+      <webElementGuid>5cc6fd26-c4a8-4386-b4dd-5519c830f9fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/contact-us/' and @type = 'unstyled' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
-      <webElementGuid>d45ab44e-4ba1-478b-abb7-b6931c1b78e3</webElementGuid>
+      <value>//a[@href = '/california-privacy-rights/' and @type = 'unstyled' and (text() = 'Do Not Process My Sensitive Information' or . = 'Do Not Process My Sensitive Information')]</value>
+      <webElementGuid>fad013d7-a940-49c3-bc61-6c97029bc4ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
