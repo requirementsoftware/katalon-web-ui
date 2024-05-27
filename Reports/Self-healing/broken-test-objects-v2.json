@@ -219,6 +219,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/div_Copyright  2023 FPTSoftware_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34",
+      "brokenLocator": "//section[@id\u003d\u0027appointment\u0027]/div/div/form/div[4]/div/div/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//section[@id\u003d\u0027appointment\u0027]/div/div/form/div[4]/div/div/div/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34_idRelative.png"
     }
   ]
 }
