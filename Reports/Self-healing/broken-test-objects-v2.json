@@ -129,6 +129,26 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/div_WE ARE                              a c_6fe479_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_About Us",
+      "brokenLocator": "//div[@id\u003d\u0027header\u0027]/div/div/div[2]/div/div[3]/div/nav/ul/li[4]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027About Us\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Services",
+      "brokenLocator": "//div[@id\u003d\u0027header\u0027]/div/div/div[2]/div/div[3]/div/nav/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Services\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/FPT/Page_FPT Software  Leading in Digital trans_9e9e5c/a_Services_link.png"
     }
   ]
 }
