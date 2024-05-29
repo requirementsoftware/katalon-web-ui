@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>check-right-side-bar - Copy</name>
+   <name>FPT-TC28</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>2ab5e973-a5b1-45c1-aece-ece47f10863d</testCaseGuid>
+   <testCaseGuid>0bd8bbe2-7df7-4630-ac37-7a0c4c4642f0</testCaseGuid>
 </TestCaseEntity>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>check-left-menu - Copy</name>
+   <name>FPT-TC25</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>1f98166e-a0ed-4325-9a2f-1642f5faab35</testCaseGuid>
+   <testCaseGuid>60689957-fe75-4713-95cf-d6040e30b05f</testCaseGuid>
 </TestCaseEntity>
